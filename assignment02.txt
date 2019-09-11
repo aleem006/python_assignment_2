@@ -1,0 +1,5 @@
+Fix the scripts in order to get test "OK"
+
+
+
+The scripts include test functions with inputs, your job is to read the description of each method and then write its code (there is no one correct way). Then run the scripts and if your functions are correct you will get OK message. 
